@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sb22/static/css/main.f840c264.css",
-    "main.js": "/sb22/static/js/main.70851903.js",
-    "static/js/787.ff5d03c3.chunk.js": "/sb22/static/js/787.ff5d03c3.chunk.js",
-    "index.html": "/sb22/index.html",
-    "main.f840c264.css.map": "/sb22/static/css/main.f840c264.css.map",
-    "main.70851903.js.map": "/sb22/static/js/main.70851903.js.map",
-    "787.ff5d03c3.chunk.js.map": "/sb22/static/js/787.ff5d03c3.chunk.js.map"
+    "main.css": "/odubleo/static/css/main.f840c264.css",
+    "main.js": "/odubleo/static/js/main.b332c3e6.js",
+    "static/js/787.9d9e2b15.chunk.js": "/odubleo/static/js/787.9d9e2b15.chunk.js",
+    "index.html": "/odubleo/index.html",
+    "main.f840c264.css.map": "/odubleo/static/css/main.f840c264.css.map",
+    "main.b332c3e6.js.map": "/odubleo/static/js/main.b332c3e6.js.map",
+    "787.9d9e2b15.chunk.js.map": "/odubleo/static/js/787.9d9e2b15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f840c264.css",
-    "static/js/main.70851903.js"
+    "static/js/main.b332c3e6.js"
   ]
 }
